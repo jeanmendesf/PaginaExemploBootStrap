@@ -1,7 +1,7 @@
 # Pagina comercial
 Projeto feito para aprender os conceitos básicos do bootStrap e como ele se comunica com outras ferramentas.
 
-##Recursos utilizados:
+## Recursos utilizados:
 - Visual Studio Code
 - HTML
 - CSS
